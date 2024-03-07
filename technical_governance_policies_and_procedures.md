@@ -235,7 +235,9 @@ noticed meeting when such matter was to be first considered.
 
 ### Agenda of a TGC Meeting
 
-
+When providing notice of a TGC meeting to TGC Members, the Chair of the TGC shall provide an agenda of the items to be discussed and items to be decided in that meeting.
+If an item is not on the agenda of a TGC meeting then the  preference is to not discuss it in that meeting.
+Instead, the item should be postponed to the next regularly scheduled TGC 
 
 
 ### Decision Making
