@@ -2,6 +2,7 @@
 
 XX March 2024
 
+
 ## Definitions and Details
 
 
@@ -183,14 +184,15 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
 1. With the exception of the Supporting Individual Representative, there shall be no requirement to be a Supporting Individual Member of the OSRA to become a PMC Member.
 
-### ARTICLE 7. Committers
 
-1. No Committer other than the Project Leader shall have administrative access to any GitHub organisations or similar entities at other online services used by the Project.
+### ARTICLE 7. Committers
 
 1. Committers shall be given necessary access rights to the repositories of the Project to which they are to be granted access to perform the duties expected of them.
    Committers shall not be given special rights in any other repository of the Project except by a decision of the Project Management Committee.
 
 1. Committers shall be given necessary access rights to the Project Support Infrastructure utilised by the Project as is necessary to perform their tasks and approved by the Project Management Committee.
+
+1. No Committer other than the Project Leader shall have administrative access to any GitHub organisations or similar entities at other online services used by the Project.
 
 1. The Project Management Committee may take a decision at any time to grant, restrict or remove a Committer's access rights to one or more repositories of the Project.
 
