@@ -106,7 +106,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 1. The meetings of the Project Management Committee shall be held via teleconference using a teleconferencing system provided by the OSRF.
 
 1. A quorum exists at a meeting of the Project Management Committee when at least two-thirds (2/3) of the PMC Constituents are present, or participating remotely in the meeting.
-   If no quorum exists at a meeting of the Project Management Committee, the PMC Constituents may hold discussions but no formal or informal decisions shall be taken.
+   If no quorum exists at a meeting of the Project Management Committee, the PMC Constituents may hold discussions but no formal shall be taken.
 
 1. Meetings of the Project Management Committee shall be open to observers by default, with no restrictions on who may observe.
    Observers shall not speak during a Project Management Committee meeting unless called upon by the Chair, and may not take part in decision making.
@@ -116,7 +116,23 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
    With the exception of the Chair of the TGC, each PMC Constituent shall have one (1) vote on each matter put before the Project Management Committee for a formal decision.
    The Chair of the TGC shall have one (1) vote, except when there is a tie in a vote, in which case the Chair of the TGC shall either abstain or cast an additional, tie-breaking vote.
 
-1. The Project Management Committee shall take a formal decision when any of the following occur.
+1. The Project Management Committee shall only use a formal decision to decide on the following matters:
+
+   1. nominating a PMC Member to be the next Project Leader;
+
+   1. adding a new external dependency to a package;
+
+   1. adding a new repository to the Project;
+
+   1. removing a repository from the Project;
+
+   1. setting a significant release date for the Project;
+
+   1. altering a significant release date of the Project; and
+
+   1. recommending a course of action to the TGC.
+
+1. In addition to the cases mentioned in ARTICLE 4.9, the Project Management Committee shall take a formal decision when any of the following occur.
 
    1. The Project Leader requests that a formal decision be taken on a matter.
 
@@ -135,13 +151,13 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
    1. Consensus of all PMC Constituents present in the meeting in which the decision is being made, provided that meeting meets the necessary criteria for decision making specified in ARTICLE 4 of this Charter.
       The decision shall take effect at the close of the meeting of the PMC in which that decision was made.
 
-   1. Asynchronous vote after the meeting ends, in accordance with 4.10 of this Charter.
+   1. Asynchronous vote after the meeting ends.
       The voting period shall be not less than three days and not more than one week.
-      A two-thirds (2/3) majority is required for the decision to be accepted.
+      A two-thirds (2/3) majority of all PMC Constituents is required for the decision to be accepted.
       The decision shall take effect immediately upon the announcement of the result by the Project Leader.
       The Project Leader shall announce the vote before or during the next meeting of the PMC after the vote closes.
 
-   1. Asynchronous vote after the meeting ends, in accordance with 4.10 of this Charter, with a simple majority enabling the decision to be carried, provided ratification of the decision by the TGC is given within the next two TGC meetings following the closing of the vote.
+   1. Asynchronous vote after the meeting ends, with a simple majority of all PMC Constituents enabling the decision to be carried, provided ratification of the decision by the TGC is given within the next two TGC meetings following the closing of the vote.
       The voting period shall be not less than three days and not more than one week.
       The Project Leader shall announce the vote before or during the next meeting of the PMC after the vote closes.
       The decision shall not take effect until ratified by the TGC.
@@ -192,7 +208,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 
 1. Committers shall be given necessary access rights to the Project Support Infrastructure utilised by the Project as is necessary to perform their tasks and approved by the Project Management Committee.
 
-1. No Committer other than the Project Leader shall have administrative access to any GitHub organisations or similar entities at other online services used by the Project.
+1. Other than in service of ARTICLE 7.2, no Committer other than the Project Leader shall have administrative access to any GitHub organisations or similar entities at other online services used by the Project.
 
 1. The Project Management Committee may take a decision at any time to grant, restrict or remove a Committer's access rights to one or more repositories of the Project.
 
@@ -264,7 +280,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
    The Chair shall be designated by the Project Management Committee at the establishment of the Working Group.
    The Chair shall be responsible for the achievement of the Working Group's task, and for the correct use of any budget provided by the Project Management Committee for use by the Working Group in carrying out its assigned task.
 
-1. The Project Management Committee shall delegate the necessary powers to the Working Group for the Working Group to perform its assigned task.
+1. With the exception of administrative access to any online services, the Project Management Committee shall delegate the necessary powers to the Working Group for the Working Group to perform its assigned task.
 
 1. The Project Management Committee shall retain the right to limit the powers and duties of any Working Group that it has created and to dissolve any such Working Group in its sole discretion by resolution of the Project Management Committee.
    The Project Management Committee has a supervisory role in the work of any Working Group.
