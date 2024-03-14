@@ -1,4 +1,4 @@
-# Repositories and utilised online services of the Open Source Robotics Alliance Project "ROS"
+# Repositories and utilised online services of the Open Source Robotics Alliance Project "Open-RMF"
 
 Last updated on 13 March 2024.
 
