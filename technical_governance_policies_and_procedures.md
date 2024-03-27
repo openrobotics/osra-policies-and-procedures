@@ -33,7 +33,7 @@ The policies and procedures of the OSRA are designed and intended to enable the 
 The policies and procedures define how all committees and groups of the OSRA operate to ensure this smooth operation and avoid unnecessary delays in decision making, while still providing sufficient time for debate and consideration.
 
 
-## Definitions
+## ARTICLE 1. Definitions
 
 Affiliate
 : Any legal entity that directly or indirectly, through one or more intermediaries, controls the Member, is controlled by the Member or is under common control with the Member, for so long as such legal entity remains an Affiliate of the Member.
@@ -172,9 +172,9 @@ Voting TGC Member
 : Has the meaning as defined in ARTICLE 18 of this Charter.
 
 
-## Technical Governance Committee
+## ARTICLE 2. Technical Governance Committee
 
-### General
+### ARTICLE 2.1 General
 
 This section describes the policies and procedures of the Technical Governance Committee ("TGC").
 This includes both the TGC itself and subcommittees thereof.
@@ -187,7 +187,7 @@ In addition to this, the TGC is expected to undertake technical activities to im
 
 > ℹ️ Examples of technical activities undertaken by the TGC are developing acceptable quality assurance standards and processes for Projects to use, and developing enhancement proposal processes.
 
-### Composition
+### ARTICLE 2.2 Composition
 
 The Technical Governance Committee is composed of a mix of paying OSRA members, representatives of projects, and delegates from the OSRF.
 The specific composition of the TGC at any one time will vary depending on the number and class of paying members.
@@ -196,7 +196,7 @@ It is the responsibility of the Chair of the TGC to manage the number of TGC Mem
 
 
 
-### Role of the Chair of the TGC
+### ARTICLE 2.3 Role of the Chair of the TGC
 
 The Chair of the TGC is selected by the Board of Directors of the OSRF.
 They are responsible for the overall operation of the TGC, including organising and running all TGC meetings, directing the technical activities of the TGC, and reporting to the Board of the OSRF on TGC activities.
@@ -204,7 +204,7 @@ They are responsible for the overall operation of the TGC, including organising 
 When the Chair of the TGC is unavailable, their designee (who may be selected by the Board, as appropriate and in line with Article 4 of the OSRA Charter) shall act in their steed.
 
 
-### Meetings
+### ARTICLE 2.4 Meetings
 
 The TGC shall hold a regular meeting once per calendar month.
 Additional meetings may be held within a calendar month when any of the following occurs:
@@ -213,36 +213,34 @@ Additional meetings may be held within a calendar month when any of the followin
 
 1. A voting TGC Member makes a request for a special meeting to the Chair of the TGC, after which the Chair shall call the meeting following all required notice and agenda requirements.
 
-
-1. The notice required by 20.7 of this Charter shall also state all agenda
-   items known at the time the notice is given.
- A matter not on the agenda may be taken up at a meeting provided that a
- majority of the Voting TGC Members present at the meeting approve placing the
- matter on the agenda.
-
-1. No action may be taken or motion passed at any meeting, if the adoption of
-   the action or passage of the motion requires more than the affirmative vote
-   of a majority of Voting TGC Members, unless the subject matter of the
-   proposed action or motion was generally stated on an agenda delivered at
-   least seven (7) calendar days prior to the meeting, or unless each Voting
-   TGC Member who is not present at the meeting has agreed prior to the meeting
-   that the action or motion may be considered and passed.
-Further, even if seven (7) calendar days' notice was given, the TGC shall (on a
-"one time" basis) postpone consideration of any action or motion for at least
-seven (7) additional calendar days, upon the written request received prior to
-the meeting from any Voting TGC Member who is unable to be present at the
-noticed meeting when such matter was to be first considered.
-
-### Agenda of a TGC Meeting
-
-When providing notice of a TGC meeting to TGC Members, the Chair of the TGC shall provide an agenda of the items to be discussed and items to be decided in that meeting.
-If an item is not on the agenda of a TGC meeting then the  preference is to not discuss it in that meeting.
-Instead, the item should be postponed to the next regularly scheduled TGC 
+A TGC meeting may only last as long as originally scheduled when notice was sent by the Chair.
+No actions or decisions may be taken once the scheduled meeting end time has passed, unless all TGC Members unanimously agree to extend the meeting.
 
 
-### Decision Making
+### ARTICLE 2.5 Agenda of a TGC Meeting
 
+When providing notice of a TGC meeting to TGC Members, the Chair of the TGC shall provide an agenda generally stating items to be discussed in that meeting.
+The Chair of the TGC or their designee is solely responsible for creating and managing the agenda of each TGC meeting, and distributing it to TGC Members.
 
+No action may be taken or motion passed at any TGC meeting if the adoption of the action or passage of the motion would require more than the majority of Voting TGC Members to agree, unless the subject matter of the proposed action or motion was generally stated in the agenda delivered with the notice of that meeting in accordance with notice requirements in the OSRA Charter, or unless each Voting TGC Member who is not present at the meeting has notified the Chair of the TGC in writing prior to the meeting that the action or motion may be considered and passed.
+The Voting TGC Members present at the meeting must unanimously agree to consider the action or motion.
+
+Even if proper notice was given, the Chair of the TGC may postpone (on a “one time” basis) postpone consideration of any action or motion for at least seven (7) additional calendar days upon the written request received prior to the meeting from any Voting TGC Member who is unable to be present at the noticed meeting when such matter was to be first considered.
+The Chair of the TGC shall either call an additional meeting of the TGC to consider that matter, or hold an asynchronous vote.
+
+> ℹ️ If an item is not on the agenda of a TGC meeting then the preference is to not discuss or decide it in that meeting.
+> Instead, the item should be postponed to the next regularly scheduled TGC or, if it is urgent, a special meeting of the TGC should be called and that item placed on its agenda.
+
+Meetings follow Robert’s Rules of Order? Or Riddick’s Rules of Procedure? Or Demeter’s Manual of Parliamentary Law and Procedure? (OMG uses Robert’s.)
+
+### ARTICLE 2.6 Decision Making
+
+A TGC Member must make a motion to take a decision before one can be taken. Then need a second.
+
+Decision making by the following methods.
+1. Consensus
+1. Vote by all voting TGC Members present.
+1. Asynchronous vote, number for majority is based on number present in the meeting?
 
 
 1. The following decisions of the TGC shall require a two-thirds (2/3) majority of the voting members of the TGC present at a meeting at which a quorum is present:
@@ -265,12 +263,15 @@ Instead, the item should be postponed to the next regularly scheduled TGC
 
 1. Voting can be done by show of hand, by secret ballot, by electronic means during a meeting, or by any method stated in the Charter of the Open Source Robotics Alliance. The method of voting used shall be at the sole discretion of the TGC Chair.
 
-### Minutes of a TGC Meeting
+Gold, Silver, Associate and Individual reps must represent their class. TGC Chair or their designee organises meetings of a class on request.
+
+
+### ARTICLE 2.7 Minutes of a TGC Meeting
 
 
 
 
-### Selection of Representatives
+### ARTICLE 2.8 Selection of Representatives
 
 
 
@@ -288,12 +289,12 @@ TGC Member and Representative elections held on an annual basis shall take place
 
 1. There is no limit on the number of terms any TGC Member or Representative may serve.
 
-## Subcommittees of the TGC
+## ARTICLE 3. Subcommittees of the TGC
 
 
 
 
-### General
+### ARTICLE 3.1 General
 
 
 
@@ -305,7 +306,7 @@ The Chair shall be a TGC Member or an employee, officer, director, or consultant
 
 1. Meetings of subcommittees shall be held at places and times to encourage maximum participation, taking into consideration the active Subcommittee members' varying schedules, time zones, and widely recognized holidays, to the extent possible.
 
-### Special Interest Groups
+### ARTICLE 3.2 Special Interest Groups
 
 
 
@@ -345,7 +346,7 @@ The content of a Special Interest Group Charter shall specify, but not be limite
 
 1. A Special Interest Group is not required to keep formal minutes of its meetings.
 
-### Technical Committees
+### ARTICLE 3.3 Technical Committees
 
 
 
@@ -383,73 +384,33 @@ Upon reaching the specified time frame without a renewal, the Technical Committe
 If the Technical Committee is unable to complete its assigned task within the time frame provided by the TGC it must report this to the TGC as early as practicable.
 
 
-## Project Governance
+## ARTICLE 4. Project Governance
 
-### General
+### ARTICLE 4.1 General
 
-
-
-
-### Composition
+When the OSRF assigns responsibility for governance of one of its open source projects to the OSRA, the OSRA sets up the structure described in Section III of the OSRA Charter.
+This section describes the additional policies and procedures that apply to governance of Projects.
 
 
+### ARTICLE 4.2 Project governance structure
+
+The governance of a single Project consists of the following entities.
+
+1. A Project Leader.
+1. A Project Management Committee (PMC).
+1. One or more PMC Members.
+1. One or more Committers.
 
 
-### Role of the Project Leader
-
-
-
-
-### PMC Members
-
-
-
-
-1. The complete process for becoming a PMC Member and/or a Committer for a Project shall be published publicly.
-
-1. PMC Members have their first duty to their Project, not the Project Management Committee or Project Leader.
-PMC Members are required to report any and all irregularities in the management and/or operation and/or execution of the Project to the TGC.
-
-17. Committers have their first duty to their Project, not the Project Management Committee, PMC Members, or Project Leader.
-Committers are required to report any and all irregularities in the operation and execution of their Project to the TGC.
-
-1. A Committer candidate may not become a Committer nor have any of the rights of existing Committers until acceptance by the PMC, except as otherwise specified by the PMC upon acceptance of that candidate's mentorship.
-Such rights as are granted at the start of the mentorship shall be removed immediately upon termination of the mentorship should the PMC reject the Committer candidate.
-
-1. A PMC Member for one Project shall not automatically be a PMC Member for any other Project governed by the OSRA, nor shall their PMC Member status gain them any special privileges or shortened mentorship time to gaining PMC Member status for another OSRA Project.
-
-1. A Committer for one Project shall not automatically be a Committer for any other Project governed by the OSRA, nor shall their Committer status gain them any special privileges or shortened mentorship time to gaining Committer status for another OSRA Project.
-
-### Committers
+### ARTICLE 4.3 Composition of the PMC
 
 
 
-### Meetings of the Project Management Committee
+### ARTICLE 4.4 Selection of the Project Leader
 
+Single year term. Can be reelected ad infinitum.
 
-
-
-### Agenda of a PMC Meeting
-
-
-
-
-### Decision Making
-
-
-
-
-### Minutes of a PMC Meeting
-
-
-
-
-### Selection of the Project Leader
-
-
-
-
-1. The Project Leader for each project shall be selected according to the following process.
+1. The Project Leader for each project is selected according to the following process.
 
    1. Eight days prior to the last TGC meeting that occurs a minimum of one month before the end of the term of the current Project Leader, the PMC presents to the TGC its preferred candidate for the next Project Leader.
       This candidate shall be selected by the PMC Members using the available decision-making methods as defined in that Project's Charter.
@@ -472,26 +433,103 @@ Such rights as are granted at the start of the mentorship shall be removed immed
 1. In the case of the position of Project Leader for a Project becoming vacant for any reason prior to the end of that Project Leader's term, the process of selecting a new Project Leader shall begin no later than eight days prior to the next TGC meeting.
    In the interim, the Chair of the TGC shall select a PMC Member to act as Project Leader, or act in that capacity him or herself.
 
-### Selection of Representatives
+
+### ARTICLE 4.5 PMC Members
 
 
 
 
-### Process for Obtaining Committer Status
+
+1. PMC Members have their first duty to their Project, not the Project Management Committee or Project Leader.
+PMC Members are required to report any and all irregularities in the management and/or operation and/or execution of the Project to the TGC.
+
+17. Committers have their first duty to their Project, not the Project Management Committee, PMC Members, or Project Leader.
+Committers are required to report any and all irregularities in the operation and execution of their Project to the TGC.
+
+1. A Committer candidate may not become a Committer nor have any of the rights of existing Committers until acceptance by the PMC, except as otherwise specified by the PMC upon acceptance of that candidate's mentorship.
+Such rights as are granted at the start of the mentorship shall be removed immediately upon termination of the mentorship should the PMC reject the Committer candidate.
+
+1. A PMC Member for one Project shall not automatically be a PMC Member for any other Project governed by the OSRA, nor shall their PMC Member status gain them any special privileges or shortened mentorship time to gaining PMC Member status for another OSRA Project.
+
+1. A Committer for one Project shall not automatically be a Committer for any other Project governed by the OSRA, nor shall their Committer status gain them any special privileges or shortened mentorship time to gaining Committer status for another OSRA Project.
+
+### ARTICLE 4.6 Committers
+
+Process for becoming a committer here. Make sure timings can be customised for each Project but the structure remains the same.
+
+
+### ARTICLE 4.7 Meetings of the Project Management Committee
+
+Meetings are open by default, but the Project Leader may call a closed meeting if necessary.
+
+Observers in the PMC meeting may not speak unless called upon by the Project Leader. Project Leader shall use the facilities of the teleconference service to enforce this.
+
+
+### ARTICLE 4.8 Agenda of a PMC Meeting
+
+Project Leader is solely responsible for managing the agenda of a PMC meeting.
+
+3 day notice of agenda?
+
+Additional items can be raised during the meeting by any PMC Member, but formal decisions can only be taken if on the agenda prior to the meeting.
+
+Anyone can propose to the Project Leader that an item be added to the agenda of a PMC meeting prior to the notification period, but the Project Leader has sole discretion on whether to include it or not.
+If the PL rejects and the proposer thinks it should still be raised, they can ask the End User Rep to raise it, but the End User Rep is not required to do so and should use their discretion. The End User Rep should be informed of the PL’s rejection and reasons for doing so.
+
+
+### ARTICLE 4.9 Decision Making
+
+Charter specifies methods of decision making that the Project may use.
+
+Preferred methods are:
+1. Consensus.
+1. Vote in the meeting.
+1. Vote after the meeting ends.
+
+What requires a formal decision shall be determined by the Project Leader when building the agenda, by a PMC Member when proposing an agenda item, or if a PMC Member objects to something being done and requests a formal decision.
+
+
+### ARTICLE 4.10 Minutes of a PMC Meeting
+
+Minutes are taken solely to aid reporting to the TGC on PMC meetings, and to document (for an open audience) what formal decisions were taken and which way each PMC Member voted.
+
+Minutes shall be hosted on a public website.
+
+
+### ARTICLE 4.11 Selection of Individual Member Representative(s)
+
+Process for selecting the End User Rep goes here.
 
 
 
+### ARTICLE 4.12 Process for Obtaining Committer Status
 
-### Process for Obtaining PMC Member Status
+Requirements and process for obtaining Committer status here.
 
-
-
-
-### Working Groups
+1. The complete process for becoming a PMC Member and/or a Committer for a Project shall be published publicly.
 
 
+### ARTICLE 4.13 Process for Obtaining PMC Member Status
+
+Requirements and process for obtaining Committer status here.
+
+1. The complete process for becoming a PMC Member and/or a Committer for a Project shall be published publicly.
 
 
-## Adoption and Modification of this Document
+### ARTICLE 4.14 Working Groups
+
+Working groups stuff here. Universal requirements.
+
+State that Working Groups are ideally used for short-term tasks rather than on-going, no-end-date-in-sight things.
+
+The PMC is required to perform an annual review of each Working Group and decide if it should be dissolved early or allowed to continue. This must be a formal decision of the PMC. Project Leader is responsible for organising the reviews and working with the WG chair to get the necessary information.
+
+WG chairs must be PMC Members.
+
+WGs must be open to any and all who wish to participate.
 
 
+## ARTICLE 5. Adoption and Modification of this Document
+
+To become effective, this Policies and Procedures document must be ratified by a vote of the Board of Directors of the OSRF.
+Changes to this document must be ratified by the same procedure, with the “Effective Date” updated to the date of coming into effect of the most recently ratified version.
