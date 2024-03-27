@@ -1,6 +1,6 @@
 # Charter of the Open Source Robotics Alliance Project "Open-RMF"
 
-XX March 2024
+18 March 2024
 
 
 ## Definitions and Details
@@ -23,9 +23,6 @@ Project Support Infrastructure
 Project Governance Structure
 : The specific governance structure used to govern the Project.
 
-P&P
-: The Policies and Procedures of the Open Source Robotics Alliance.
-
 All definitions provided in the Charter of the Open Source Robotics Alliance Technical Governance Committee also apply in this Charter.
 
 
@@ -33,25 +30,25 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
 1. The name of the Project shall be "Open-RMF".
 
-1. The Project shall use the GitHub online service to host its source code repositories, except where the PMC has determined that GitHub is not appropriate, in which case the PMC shall specify an alternative online service to use.
+1. The Project shall use one or more suitable publicly-available online services to host its source code repositories.
 
 1. The Project shall maintain a section of the Project website that lists the following:
 
-   1. the name, affiliation, GitHub username and optionally the primary time zone of the Project Leader;
+   1. the name, affiliation, username at utilised repository services, and optionally the primary time zone of the Project Leader;
 
-   1. the name, affiliation, GitHub username and optionally the primary time zone of each PMC Member;
+   1. the name, affiliation, username at utilised repository services, and optionally the primary time zone of each PMC Member;
 
-   1. the name, affiliation, GitHub username and optionally the primary time zone of each Committer who is not also a PMC Member;
+   1. the name, affiliation, username at utilised repository services, and optionally the primary time zone of each Committer who is not also a PMC Member;
 
-   1. the name, and optionally GitHub username and e-mail address, of past Project Leaders and their affiliation at the time of holding that status; and
+   1. the name, and optionally username at utilised repository services, of past Project Leaders and their affiliation at the time of holding that status; and
 
-   1. the name, and optionally GitHub username and e-mail address, of past Committers/PMC Members and their affiliation at the time of holding that status, except for those persons who communicate their wish to not be listed to the Project Leader at the time of ending their status as a Committer/PMC Member.
+   1. the name, and optionally username at utilised repository services, of past Committers/PMC Members and their affiliation at the time of holding that status, except for those persons who communicate their wish to not be listed to the Project Leader at the time of ending their status as a Committer/PMC Member.
 
 1. The Project shall maintain a section of the Project website that lists the following:
 
-   1. the GitHub organisations utilised by the Project, including for each organisation the URI and the intended purpose; and
+   1. the repository groupings (such as GitHub organisations) managed by the Project, including for each organisation the URI and the intended purpose; and
 
-   1. the GitHub repositories utilised by the Project, including for each repository the URI, the intended purpose, the names and GitHub usernames of the Committers who manage that repository, and the names and GitHub usernames of the Committers who can commit to that repository.
+   1. the repositories managed by the Project, including for each repository the URI, the intended purpose, the names and usernames of the Committers who manage that repository, and the names and usernames of the Committers who can commit to that repository.
 
 1. The Project shall maintain a section of the Project website that defines the roadmap of the Project.
 
@@ -105,7 +102,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
 1. The meetings of the Project Management Committee shall be held via teleconference using a teleconferencing system provided by the OSRF.
 
-1. A quorum exists at a meeting of the Project Management Committee when at least two-thirds (2/3) of the PMC Constituents are present, or participating remotely in the meeting.
+1. A quorum exists at a meeting of the Project Management Committee when at least one-half (1/2) of the PMC Constituents are present, or participating remotely in the meeting.
    If no quorum exists at a meeting of the Project Management Committee, the PMC Constituents may hold discussions but no formal or informal decisions shall be taken.
 
 1. Meetings of the Project Management Committee shall be open to observers by default, with no restrictions on who may observe.
@@ -116,11 +113,9 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
    With the exception of the Chair of the TGC, each PMC Constituent shall have one (1) vote on each matter put before the Project Management Committee for a formal decision.
    The Chair of the TGC shall have one (1) vote, except when there is a tie in a vote, in which case the Chair of the TGC shall either abstain or cast an additional, tie-breaking vote.
 
-1. The Project Management Committee shall only use a formal decision to decide on the following matters:
+1. The Project Management Committee shall use a formal decision to decide on the following matters:
 
    1. nominating a PMC Member to be the next Project Leader;
-
-   1. adding a new external dependency to a package;
 
    1. adding a new repository to the Project;
 
@@ -128,7 +123,11 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
    1. setting a significant release date for the Project;
 
-   1. altering a significant release date of the Project; and
+   1. altering a significant release date of the Project;
+
+   1. setting a end-of-life date for a release of the Project;
+
+   1. altering a end-of-life date for a release of the Project; and
 
    1. recommending a course of action to the TGC.
 
@@ -145,14 +144,9 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
    1. Asynchronous vote after the meeting ends.
       The voting period shall be not less than three days and not more than one week.
-      A two-thirds (2/3) majority of all PMC Constituents is required for the decision to be accepted.
-      The decision shall take effect immediately upon the announcement of the result by the Project Leader.
-      The Project Leader shall announce the vote before or during the next meeting of the PMC after the vote closes.
-
-   1. Asynchronous vote after the meeting ends, with a simple majority of all PMC Constituents enabling the decision to be carried, provided ratification of the decision by the TGC is given within the next two TGC meetings following the closing of the vote.
-      The voting period shall be not less than three days and not more than one week.
-      The Project Leader shall announce the vote before or during the next meeting of the PMC after the vote closes.
-      The decision shall not take effect until ratified by the TGC.
+      A two-thirds (2/3) majority of all PMC Constituents is required for the decision to be accepted, or a one-half (1/2) majority of all PMC Constituents combined with ratification by the TGC within the next two TGC meetings following the closing of the vote.
+      The decision shall take effect immediately upon the announcement of the result by the Project Leader, or upon ratification by the TGC, when required.
+      The Project Leader shall announce the result before or during the next meeting of the PMC after the vote closes.
 
 1. If, upon receiving notice of a meeting in which one or more decisions are to be made, a PMC Constituent requests by e-mail to the Project Leader an asynchronous vote for a decision, then the Project Leader must commence an asynchronous vote for that decision by suitable means, as stipulated by this Charter, within one week of the meeting in which that decision was to be taken.
 
@@ -168,7 +162,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
 ### ARTICLE 5. Project Leader
 
-1. The Project Leader shall have administrative access to all GitHub organisations, GitHub repositories, and accounts at other online services used by the Project.
+1. The Project Leader shall have administrative access to all repositories and accounts at other online services used by the Project.
 
 1. The Project Leader shall have administrative access to all Project Support Infrastructure (as provided by the OSRF) utilised by this Project.
 
@@ -180,7 +174,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
    1. A Contributor to the Project or Committer of the Project decides to become a PMC Member and contacts an existing PMC Member of the Project for mentorship, or a PMC Member of the Project identifies a Contributor or Committer who has the potential to become a PMC Member and proposes this to that person (the "Candidate").
 
    1. The PMC Member informs the Project Management Committee for the Project of their intention to take on the Candidate for mentorship towards being a PMC Member for the Project with responsibility for specific repositories of the Project.
-      The Project Management Committee, by discussion and a resolution, chooses to accept or reject the proposed mentorship.
+      The Project Management Committee, by discussion and a formal decision, chooses to accept or reject the proposed mentorship.
 
    1. The Candidate and the mentoring PMC Member ("Mentor") work together over a period of not less than one (1) calendar month and not more than six (6) calendar months, with the goal of the Candidate learning what is required in being a PMC Member, making further and more significant contributions to the Project, gaining the necessary experience to be able to perform the PMC Member and Committer roles, and demonstrating their ability to perform the roles in keeping with the policies of the Project, as specified by the Project Management Committee, the OSRA-wide project policies, as specified by the TGC, and the Policies and Procedures of the OSRA.
 
@@ -190,7 +184,14 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
    1. If the Mentor cannot propose to the Project Management Committee that the Candidate be promoted to PMC Member status within six (6) calendar months of commencing the mentorship, or the Project Management Committee does not accept the Candidate within six (6) calendar months of the mentorship commencing, the mentorship terminates.
       In this situation, the Candidate is free to begin the process again at any time, provided that a different PMC Member agrees to fulfil the role of Mentor.
 
+1. All PMC Members must also be Committers, with the appropriate responsibilities that come with that status as determined by the PMC.
+   There is no requirement to attain the status of Committer prior to attaining the status of PMC Member.
+   The two statuses may be attained simultaneously.
+   However, it is a requirement that the PMC evaluate a candidate for PMC Member according to their suitability to be a Committer in addition to their suitability to be a PMC Member.
+
 1. With the exception of the Supporting Individual Representative, there shall be no requirement to be a Supporting Individual Member of the OSRA to become a PMC Member.
+
+1. PMC Members shall bear their own costs and expenses for their participation in Project activities, meetings, travel, employee compensation, and incidental expenses.
 
 
 ### ARTICLE 7. Committers
@@ -200,7 +201,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
 1. Committers shall be given necessary access rights to the Project Support Infrastructure utilised by the Project as is necessary to perform their tasks and approved by the Project Management Committee.
 
-1. Other than in service of ARTICLE 7.2, no Committer other than the Project Leader shall have administrative access to any GitHub organisations or similar entities at other online services used by the Project.
+1. Other than in service of ARTICLE 7.2, no Committer other than the Project Leader shall have administrative access to any GitHub/GitLab organisations or similar entities at other online services used by the Project.
 
 1. The Project Management Committee may take a decision at any time to grant, restrict or remove a Committer's access rights to one or more repositories of the Project.
 
@@ -215,7 +216,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
    1. A Contributor to the Project decides to become a Committer and contacts an existing PMC Member of the Project for mentorship, or a PMC Member of the Project identifies a Contributor who has the potential to become a Committer and proposes this to that person (the "Candidate").
 
    1. The PMC Member informs the Project Management Committee for the Project of their intention to take on the Candidate for mentorship towards being a Committer for the Project with responsibility for specific repositories of the Project.
-      The Project Management Committee, by discussion and a resolution, chooses to accept or reject the proposed mentorship.
+      The Project Management Committee, by discussion and a formal decision, chooses to accept or reject the proposed mentorship.
 
    1. The Candidate and the mentoring PMC Member ("Mentor") work together over a period of not less than one (1) calendar month and not more than six (6) calendar months, with the goal of the Candidate learning what is required in being a Committer, making further and more significant contributions to the Project, gaining the necessary experience to be able to perform the Committer role independently, and demonstrating their ability to perform the role in keeping with the policies of the Project, as specified by the Project Management Committee, the OSRA-wide project policies, as specified by the TGC, and the Policies and Procedures of the OSRA.
 
@@ -226,6 +227,8 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
       In this situation, the Candidate is free to begin the process again at any time, provided that a different PMC Member agrees to fulfil the role of Mentor.
 
 1. There shall be no requirement to be a Supporting Individual Member of the OSRA to become a Committer.
+
+1. Committers shall bear their own costs and expenses for their participation in Project activities, meetings, travel, employee compensation, and incidental expenses.
 
 
 ### ARTICLE 8. Working Groups
@@ -273,7 +276,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
 1. With the exception of administrative access to any online services, the Project Management Committee shall delegate the necessary powers to the Working Group for the Working Group to perform its assigned task.
 
-1. The Project Management Committee shall retain the right to limit the powers and duties of any Working Group that it has created and to dissolve any such Working Group in its sole discretion by resolution of the Project Management Committee.
+1. The Project Management Committee shall retain the right to limit the powers and duties of any Working Group that it has created and to dissolve any such Working Group in its sole discretion by formal decision of the Project Management Committee.
    The Project Management Committee has a supervisory role in the work of any Working Group.
 
 1. Any appointment by the Project Management Committee of any other Working Groups, including the designation of one (1) PMC Member as the Chair, must be taken by a decision adopted by a simple majority of the PMC Members present, represented or participating remotely at a Project Management Committee meeting.
@@ -285,7 +288,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 1. Working Group meetings shall be held "in the open," with participation open to any natural person who wishes to join on an irregular or on-going basis.
    Participation in Working Group activities shall not be limited to PMC Members, Committers, or Members of any kind of the OSRA.
 
-1. A Working Group may not take any decisions or make any resolutions beyond that necessary to achieve the set task, as stated in the Charter of the Working Group, and achievable by consensus.
+1. A Working Group may not take any decisions or make any formal decision beyond that necessary to achieve the set task, as stated in the Charter of the Working Group, and achievable by consensus.
    When consensus cannot be reached, the decision shall be taken by the Project Management Committee.
 
 1. A Working Group is not required to keep formal minutes of discussions held.
