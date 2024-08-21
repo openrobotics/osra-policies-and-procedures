@@ -35,6 +35,7 @@ The Technical Committee shall perform the following tasks.
 
 1. Based on the above information, draft a complete "Project Enhancement Proposal" process for OSRA Projects.
    The draft shall include both the format of a "Project Enhancement Proposal" document and the full process from inception to adoption of a proposal.
+   The proposed process shall allow for project-specific customisation where necessary, and define how that customisation shall be vetted and approved.
 
 1. Provide the draft publicly for a period of no less than one month in order to gather feedback from users of OSRA Projects.
 
