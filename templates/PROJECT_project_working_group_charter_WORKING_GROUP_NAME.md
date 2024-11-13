@@ -9,7 +9,7 @@ The names of the Working Group shall be "ROS Working Group on [Working Group Nam
 
 ### Chair
 
-The Chair of the Working Group shall be [Name of PMC Member of the Project who will chair the WG].
+The Chair of the Working Group shall be [Name of PMC Member of the Project who will chair the WG along with a public e-mail address].
 
 
 ### Purpose
