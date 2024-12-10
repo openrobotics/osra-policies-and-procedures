@@ -105,7 +105,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 
 1. The meetings of the Project Management Committee shall be held via teleconference using a teleconferencing system provided by the OSRF.
 
-1. A quorum exists at a meeting of the Project Management Committee when at least one-half (1/3) of the PMC Constituents are present, or participating remotely in the meeting.
+1. A quorum exists at a meeting of the Project Management Committee when at least one-half (1/2) of the PMC Constituents are present, or participating remotely in the meeting.
    If no quorum exists at a meeting of the Project Management Committee, the PMC Constituents may hold discussions but no formal decisions shall be taken.
 
 1. Meetings of the Project Management Committee shall be open to observers by default, with no restrictions on who may observe.
