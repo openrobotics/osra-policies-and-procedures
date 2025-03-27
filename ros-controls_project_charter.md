@@ -225,7 +225,7 @@ The PMC shall publicly announce this during a meeting and have it appear in the 
 
 1. The Project Management Committee may take a decision at any time to grant, restrict or remove a Committer's access rights to the Project Support Infrastructure utilised by the Project.
 
-1. The Project Management Committee may choose to remove the Commiter's status if the person does not actively participate in the project. Guidelines for active participation are
+1. The Project Management Committee may choose to remove the Committer's status if the person does not actively participate in the project. Guidelines for active participation are
 * Attending at least 50% of meetings within a last 6 months period.
 * Actively participate in discussions and Review Pull Requests (at least 3 PR review per month)
 The PMC shall publicly announce this during a meeting and have it appear in the notes of said meeting.
