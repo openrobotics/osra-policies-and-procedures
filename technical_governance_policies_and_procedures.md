@@ -181,8 +181,6 @@ There is no limit on the number of terms a member representative may serve.
 
 The TGC Chair is responsible for organizing the selection of representatives of projects when a vacancy occurs amongst project representation in the TGC.
 
-The election of project representatives shall be held once per calendar quarter, with the representative’s term beginning on the first day of the next calendar quarter (January, April, July and October).
-
 The TGC Chair shall allocate project representative seats in the TGC to projects based on, in the view of the Chair of the TCG, the necessary representation of each project, and to satisfy any other conditions placed on the composition of the TGC by the Board of Directors of the OSRF. The TGC Chair shall perform this allocation upon a vacancy occurring, and prior to the next election period beginning.
 
 A new project representative being selected to replace a project representative who has resigned or otherwise lost their position as a project representative, or who's term has ended, shall be selected from the same project as that previous project representative, unless the TGC Chair determines that the project representative seat should be reallocated to another Project.
@@ -191,7 +189,7 @@ If there is an equal number of candidates as project representative positions op
 
 Candidates for a project representative position must self-nominate directly to the TGC Chair or their designee. No nominations of others shall be accepted. It is expected that the relevant PMC shall hold internal discussions prior to candidates submitting their candidacy to the TGC Chair, in order to prevent acrimonious outcomes.
 
-There is no limit on the number of terms a project representative may serve.
+The term of a project representative is one calendar year, starting in January.  In the case that a project representative needs to be added or replaced, the election shall be held no more than once per calendar quarter, with the representative’s term beginning on the first day of the next calendar quarter (January, April, July and October).  There is no limit on the number of terms a project representative may serve.
 
 ### Subcommittees of the TGC
 
