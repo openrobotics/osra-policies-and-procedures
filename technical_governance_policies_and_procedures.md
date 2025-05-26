@@ -1,4 +1,4 @@
-# Policies and Procedures of Technical Governance of the Open Source Robotics Foundation
+# Policies and Procedures of Technical Governance of the Open Source Robotics Alliance
 
 Effective as of 18 March 2024\.
 
