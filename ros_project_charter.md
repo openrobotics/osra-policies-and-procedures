@@ -2,9 +2,7 @@
 
 18 March 2024
 
-
 ## Definitions and Details
-
 
 ### ARTICLE 1. Definitions
 
@@ -27,7 +25,6 @@ P&P
 : The Policies and Procedures of the Open Source Robotics Alliance.
 
 All definitions provided in the Charter of the Open Source Robotics Alliance also apply in this Charter.
-
 
 ### ARTICLE 2. Project Details
 
@@ -55,9 +52,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 
 1. The Project shall maintain a section of the Project website that defines the roadmap of the Project.
 
-
 ## Project Governance
-
 
 ### ARTICLE 3. Project Governance Structure
 
@@ -72,7 +67,6 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
    1. one (1) or more Committers in accordance with ARTICLE 8.6 of the OSRA Charter and ARTICLE 7 of this Charter; and
 
    1. zero (0) or more Working Groups, established by the PMC in accordance with ARTICLE 8.5 of the OSRA Charter and ARTICLE 8 of this Charter.
-
 
 ### ARTICLE 4. Project Management Committee
 
@@ -105,7 +99,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 
 1. The meetings of the Project Management Committee shall be held via teleconference using a teleconferencing system provided by the OSRF.
 
-1. A quorum exists at a meeting of the Project Management Committee when at least one-half (1/3) of the PMC Constituents are present, or participating remotely in the meeting.
+1. A quorum exists at a meeting of the Project Management Committee when at least one-half (1/2) of the PMC Constituents are present, or participating remotely in the meeting.
    If no quorum exists at a meeting of the Project Management Committee, the PMC Constituents may hold discussions but no formal decisions shall be taken.
 
 1. Meetings of the Project Management Committee shall be open to observers by default, with no restrictions on who may observe.
@@ -172,13 +166,11 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 
 1. PMC Constituents and Committers shall bear their own costs and expenses for their participation in Project activities, meetings, travel, employee compensation, and incidental expenses.
 
-
 ### ARTICLE 5. Project Leader
 
 1. The Project Leader shall have administrative access to all repositories and accounts at other online services used by the Project.
 
 1. The Project Leader shall have administrative access to all Project Support Infrastructure (as provided by the OSRF) utilised by this Project.
-
 
 ### ARTICLE 6. Project Management Committee Members
 
@@ -205,7 +197,6 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 1. With the exception of the Supporting Individual Representative, there shall be no requirement to be a Supporting Individual Member of the OSRA to become a PMC Member.
 
 1. PMC Members shall bear their own costs and expenses for their participation in Project activities, meetings, travel, employee compensation, and incidental expenses.
-
 
 ### ARTICLE 7. Committer
 
@@ -243,7 +234,6 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 
 1. Committers shall bear their own costs and expenses for their participation in Project activities, meetings, travel, employee compensation, and incidental expenses.
 
-
 ### ARTICLE 8. ROS Bosses
 
 1. A ROS Boss is responsible for one (1) ROS release.
@@ -270,7 +260,6 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
    1. if the PMC makes a formal decision to remove the ROS Boss from their position; or
 
    1. If the ROS Boss loses their position as PMC Member and/or Committer in the Project, for any reason.
-
 
 ### ARTICLE 9. Working Groups
 
