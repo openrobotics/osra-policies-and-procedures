@@ -38,8 +38,7 @@ The Working Group shall, upon completion of its tasks and as appropriate while p
 
 ### Completion date
 
-Planned for indefinite run until cancelled.
-Will discuss continuation/extension annually with the PMC, the first review of which will be scheduled for 03 November 2026.
+The Working Group's Charter expires on the 3rd of November, 2026.
 
 The Working Group shall be automatically dissolved on that date, unless its Charter is explicitly renewed by the ROS PMC.
 
