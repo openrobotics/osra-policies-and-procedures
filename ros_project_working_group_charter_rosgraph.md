@@ -13,7 +13,7 @@ The Chair of the Working Group shall be [Emerson Knapp](mailto:emerson.b.knapp@g
 
 ### Purpose
 
-The Working Group is formed to design, plan, and build tools that help developers reason about their ROS application - which is a “Node graph” (as in graph theory, not plotting) connected by messaging interfaces- as a whole.
+The Working Group is formed to design, plan, and build tools that help developers reason about their ROS application - a “node graph” (as in graph theory, not plotting) connected by messaging interfaces - as a whole.
 Those themes include:
 - declarative interfaces, such as generate_parameter_library and nodl;
 - runtime graph and health monitoring;
