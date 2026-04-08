@@ -31,7 +31,7 @@ The Working Group shall perform the following tasks.
 
 ### Expected outputs
 
-The Working Group shall, upon completion of its tasks and as appropriate while performing them, provide to the [Project] PMC the following.
+The Working Group shall, upon completion of its tasks and as appropriate while performing them, provide to the ROS PMC the following.
 
 1. Bugfixes, usability improvements, features, and new tools around the WG target themes.
 
