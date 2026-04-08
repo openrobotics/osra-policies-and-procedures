@@ -39,7 +39,6 @@ The Working Group shall, upon completion of its tasks and as appropriate while p
 ### Completion date
 
 The Working Group's Charter expires on the 3rd of November, 2026.
-
 The Working Group shall be automatically dissolved on that date, unless its Charter is explicitly renewed by the ROS PMC.
 
 
