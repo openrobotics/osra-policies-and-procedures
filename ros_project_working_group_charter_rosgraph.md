@@ -33,7 +33,7 @@ The Working Group shall perform the following tasks.
 
 The Working Group shall, upon completion of its tasks and as appropriate while performing them, provide to the ROS PMC the following.
 
-1. Bugfixes, usability improvements, features, and new tools around the WG target themes.
+1. Bug fixes, usability improvements, features, and new tools around the WG themes.
 
 
 ### Completion date
