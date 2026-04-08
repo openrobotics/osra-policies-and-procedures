@@ -9,7 +9,7 @@ The names of the Working Group shall be "ROS Working Group on ROSGraph", "WG on 
 
 ### Chair
 
-The Chair of the Working Group shall be [Emerson Knapp](mailto:emerson.b.knapp@gmail.com)
+The Chair of the Working Group shall be [Emerson Knapp](mailto:emerson.b.knapp@gmail.com).
 
 ### Purpose
 
