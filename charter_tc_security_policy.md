@@ -60,4 +60,4 @@ The Technical Committee shall use a mailing list provided by the OSRF for its as
 
 ### Confidentiality requirement
 
-The activities of the Technical Committee shall be conducted using the Chatham House Rule. Materials produced by the Technical Committee may not be disseminated beyond the members of the Technical Committee without the approval of the Technical Committee. However, the Technical Committee should err on the side of openness in order to increase confidence in the results of its work by the wider community.
+The activities of the Technical Committee shall be conducted using the Chatham House Rule. Materials produced by the Technical Committee may not be disseminated beyond the members of the Technical Committee or the Technical Governance Committee without the approval of the Technical Committee. However, the Technical Committee should err on the side of openness in order to increase confidence in the results of its work by the wider community.
