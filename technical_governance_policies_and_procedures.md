@@ -312,7 +312,9 @@ This section describes policies and procedures that apply to governance of Proje
 
 ### Project Governance Structure
 
-By default, all Committers are PMC Members. Each project’s Charter may alter this as appropriate for that project, in order to meet the project’s specific needs by allowing for a greater number of Committers than PMC Members. For example, a large project with a large number of repositories may require more Committers to handle the management of those repositories, while keeping the number of PMC Members to a smaller number to facilitate smooth project management.
+By default, all Committers are PMC Members.
+Each project’s Charter may alter this as appropriate for that project, in order to meet the project’s specific needs by allowing for a greater number of Committers than PMC Members.
+For example, a large project with a large number of repositories may require more Committers to handle the management of those repositories, while keeping the number of PMC Members to a smaller number to facilitate smooth project management.
 
 ### Composition of the PMC
 
@@ -388,6 +390,17 @@ A candidate to be a Committer may not become a Committer nor have any of the rig
 Such rights as are granted at the start of the mentorship shall be removed immediately upon termination of the mentorship should the PMC reject the Committer candidate at any time during the mentorship process.
 
 A Committer for one project shall not automatically be a Committer for any other project governed by the OSRA, nor shall their Committer status gain them any special privileges or shortened mentorship time to gaining Committer status for another OSRA project.
+
+### Limitations on length of status
+
+Each Project Charter must establish the conditions to be fulfilled by Committers and PMC Members in order to retain their status, and the process by which status can be removed when these conditions are met.
+The process must provide for:
+
+- communicating a warning to the Committer or PMC Member that they are not fulfilling the conditions for maintaining their status, with specific actions they should take to maintain their status and the timeframe in which they must take those actions;
+- a period during which the Committer or PMC Member is considered "dormant", whereby all access privileges are removed to remove security risks from unused accounts and, in the case of a PMC Member, the right to vote is removed and that PMC Member does not count toward quorum calculations for the purposes of decision making;
+- the start date of the "dormancy" of that Committer or PMC Member;
+- specific actions that the Committer or PMC Member should take to revive their status from dormancy, and the timeframe in which they must take those actions;
+- the date upon which the Committer or PMC Member will lose their status completely and will therefore need to go through the process to become a Committer or PMC Member as described in that Project's Charter.
 
 ### Meetings of a PMC
 
