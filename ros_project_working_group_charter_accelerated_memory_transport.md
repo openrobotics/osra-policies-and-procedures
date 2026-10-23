@@ -12,18 +12,18 @@ The Chair of the Working Group shall be [Alejandro Hernández Cordero](mailto:ac
 
 ### Purpose
 
-The Working Group is formed to design, develop, and maintain mechanisms that allow ROS 2 to transport large data, such as high-resolution images, point clouds, and tensors, efficiently between nodes without unnecessary copies through CPU memory.
+The Working Group is formed to design, develop, and maintain mechanisms that allow ROS to transport large data, such as high-resolution images, point clouds, and tensors, efficiently between nodes without unnecessary copies through CPU memory.
 The Working Group's approach is to allow message data to be backed by vendor-specific memory (for example, GPU memory), so that when publishers and subscribers share a compatible memory backend the data can be shared directly via lightweight descriptors, reducing CPU load, latency, and power consumption.
-When publishers and subscribers do not share a compatible backend, the system shall gracefully fall back to standard CPU serialization, preserving compatibility with existing ROS 2 systems.
+When publishers and subscribers do not share a compatible backend, the system shall gracefully fall back to standard CPU serialization, preserving compatibility with existing ROS systems.
 
 ### Tasks
 
 The Working Group shall perform the following tasks.
 
-1. Discuss and design the architecture and APIs for accelerated memory transport in ROS 2, and the extension points through which vendors can provide their own memory backends.
+1. Discuss and design the architecture and APIs for accelerated memory transport in ROS, and the extension points through which vendors can provide their own memory backends.
 2. Develop prototypes and reference implementations, and make them available to the community for testing and feedback.
-3. Identify the changes required in existing ROS 2 core packages and RMW implementations, and work with the maintainers of those packages to have the changes reviewed and accepted.
-4. Ensure that accelerated memory transport remains compatible with existing ROS 2 systems, including automatic fallback to standard transport when accelerated transport is not available.
+3. Identify the changes required in existing ROS core packages and RMW implementations, and work with the maintainers of those packages to have the changes reviewed and accepted.
+4. Ensure that accelerated memory transport remains compatible with existing ROS systems, including automatic fallback to standard transport when accelerated transport is not available.
 5. Provide a regular open forum in which contributors, hardware vendors, and users can raise and discuss design questions, use cases, and priorities.
 
 ### Expected outputs
@@ -31,7 +31,7 @@ The Working Group shall perform the following tasks.
 The Working Group shall, upon completion of its tasks and as appropriate while performing them, provide to the ROS PMC the following.
 
 1. Design documentation, and where appropriate ROS Enhancement Proposals (REPs), describing the accelerated memory transport architecture and APIs.
-2. Pull requests to the ROS 2 core packages and RMW implementations implementing accelerated memory transport.
+2. Pull requests to the ROS core packages and RMW implementations implementing accelerated memory transport.
 3. Reference memory backend implementations, examples, and demos.
 4. Recommendations to the ROS PMC on the direction and priorities of accelerated memory transport development, when requested or when the Working Group deems it necessary.
 
