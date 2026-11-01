@@ -66,7 +66,7 @@ All definitions provided in the Charter of the Open Source Robotics Alliance als
 
    1. one (1) or more Committers in accordance with ARTICLE 8.6 of the OSRA Charter and ARTICLE 7 of this Charter; and
 
-   1. zero (0) or more Working Groups, established by the PMC in accordance with ARTICLE 8.5 of the OSRA Charter and ARTICLE 8 of this Charter.
+   1. zero (0) or more Working Groups, established by the PMC in accordance with ARTICLE 8.5 of the OSRA Charter and ARTICLE 9 of this Charter.
 
 ### ARTICLE 4. Project Management Committee
 
