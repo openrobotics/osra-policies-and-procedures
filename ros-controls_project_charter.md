@@ -69,7 +69,9 @@ All definitions provided in the Charter of the Open Source Robotics Alliance Tec
 
    1. one (1) or more Project Management Committee Members ("PMC Members") in accordance with ARTICLE 8.5 of the OSRA Charter and ARTICLE 6 of this Charter;
 
-   1. one (1) or more Committers in accordance with ARTICLE 8.6 of the OSRA Charter and ARTICLE 7 of this Charter.
+   1. one (1) or more Committers in accordance with ARTICLE 8.6 of the OSRA Charter and ARTICLE 7 of this Charter; and
+
+   1. zero (0) or more Working Groups, established by the PMC in accordance with ARTICLE 8.5 of the OSRA Charter and ARTICLE 8 of this Charter.
 
 
 ### ARTICLE 4. Project Management Committee
@@ -257,3 +259,54 @@ The PMC shall publicly announce this during a meeting and have it appear in the 
 1. There shall be no requirement to be a Supporting Individual Member of the OSRA to become a Committer.
 
 1. Committers shall bear their own costs and expenses for their participation in Project activities, meetings, travel, employee compensation, and incidental expenses.
+
+
+### ARTICLE 8. Working Groups
+
+1. The Project Management Committee may establish such working groups (the "Working Groups") as the Project Management Committee from time to time deems necessary or appropriate to carry out its duties.
+
+1. The content of a Working Group Charter shall specify, but not be limited to, the following:
+
+   1. the title of the Working Group;
+
+   1. the Chair of the Working Group;
+
+   1. the purpose of the Working Group;
+
+   1. the task, including any detailed instructions and requirements necessary, that the Working Group is to perform;
+
+   1. the expected work product(s), if any, that the Working Group is expected to provide to the Project Management Committee upon completion or termination of its task;
+
+   1. the date, if any, by which the Working Group must complete its work;
+
+   1. the minimum frequency of Working Group meetings; and
+
+   1. the minimum frequency of the Working Group providing a report on its activities to the Project Management Committee.
+
+1. A Working Group shall be automatically dissolved upon reaching its expiration date, if any, unless its Charter has been renewed by the Project Management Committee prior to that date.
+
+1. Each Working Group shall be reviewed by the Project Management Committee every calendar year from its establishment date or any previous review.
+   The review shall evaluate the Working Group's activities, outputs, and use of resources.
+   The information for the review shall be gathered by the Project Leader with the cooperation of the Chair of the Working Group.
+   Based on the review, the Project Management Committee shall decide whether to dissolve the Working Group, allow it to continue with its existing Charter, or revise its Charter.
+
+1. A Working Group is only empowered to perform the specific task assigned to it by the Project Management Committee upon creation of the Working Group.
+
+1. Working Groups shall report to the Project Management Committee at a frequency defined in the Charter of the Working Group.
+   A Working Group may elect to have either the Chair of the Project Management Committee or one of the PMC Members participating in the Working Group present its reports to the Project Management Committee.
+
+1. Each Working Group shall have a Chair, who shall be a PMC Member.
+   The Chair shall be designated by the Project Management Committee at the establishment of the Working Group.
+
+1. With the exception of administrative access to any online services, the Project Management Committee shall delegate the necessary powers to the Working Group for the Working Group to perform its assigned task.
+
+1. The Project Management Committee shall retain the right to limit the powers and duties of any Working Group that it has created and to dissolve any such Working Group in its sole discretion by formal decision of the Project Management Committee.
+   The Project Management Committee has a supervisory role in the work of any Working Group.
+
+1. Working Group meetings shall be held "in the open," with participation open to any natural person who wishes to join on an irregular or on-going basis.
+   Participation in Working Group activities shall not be limited to PMC Members, Committers, or Members of any kind of the OSRA.
+
+1. A Working Group may not take any decisions or make any formal decision beyond that necessary to achieve the set task, as stated in the Charter of the Working Group, and achievable by consensus.
+   When consensus cannot be reached, the decision shall be taken by the Project Management Committee.
+
+1. Participants in Working Groups shall bear their own costs and expenses for their participation in Working Group activities, meetings, travel, employee compensation, and incidental expenses.
