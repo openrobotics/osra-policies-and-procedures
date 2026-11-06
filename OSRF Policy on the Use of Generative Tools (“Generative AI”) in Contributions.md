@@ -4,8 +4,8 @@
 
 Tools that use generative technology, also known as “Generative AI”, “GenAI”, and “GAI”, have exploded in both capability and popularity.
 Their use by contributors to open-source projects is not just inevitable, but already occurring, and it is generally accepted that the use of such tools in software development, document writing, website creation, and other related tasks of open-source development is becoming commonplace.
-These tools are capable of greatly speeding up the production of source code, allowing the same number of contributors to produce more and larger proprosed changes,
-However, there is a trend of submitting large Pull Requests (PRs) without sufficient (or even any) verification or human review prior to submission, and a similar trend of letting AI agents produce wordy and obtuse PR descriptions rather than writing a short and clear by hand.
+These tools are capable of greatly speeding up the production of source code, allowing the same number of contributors to produce more and larger proprosed changes.
+However, there is a trend of submitting large Pull Requests (PRs) without sufficient (or even any) verification or human review prior to submission, and a similar trend of letting AI agents produce wordy and obtuse PR descriptions rather than writing a short and clear description by hand.
 **Maintainer time is a finite resource**.
 Generative tools can be useful assistants in software development, but using them to throw large and barely verified PRs shifts the development, debugging, and verification work from the contributor to the maintainers - without any speed up in project development.
 
@@ -48,7 +48,7 @@ They want to hear from you what the contribution is, why it is worth accepting, 
 They **do not** want to talk to your chatbot or read an AI agent-generated essay about a two-line proprosed change.
 When making a contribution and engaging in discussion, keep in mind the need to avoid ["slop grenades"](https://noslopgrenade.com/).
 
-You should follow the following general guidance when making a contribution.
+Contributions should follow these general guidelines.
 
 * Confirm that the issue is still valid and that any proposed solution is still preferred.
   Start a conversation on the issue thread to ensure maintainers agree with the approach **before** beginnig any implementation work.
