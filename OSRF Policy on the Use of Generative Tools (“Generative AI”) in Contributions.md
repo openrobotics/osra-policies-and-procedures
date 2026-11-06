@@ -6,7 +6,7 @@ Tools that use generative technology, also known as “Generative AI”, “GenA
 Their use by contributors to open-source projects is not just inevitable, but already occurring, and it is generally accepted that the use of such tools in software development, document writing, website creation, and other related tasks of open-source development is becoming commonplace.
 These tools are capable of greatly speeding up the production of source code, allowing the same number of contributors to produce more and larger proprosed changes,
 However, there is a trend of submitting large Pull Requests (PRs) without sufficient (or even any) verification or human review prior to submission, and a similar trend of letting AI agents produce wordy and obtuse PR descriptions rather than writing a short and clear by hand.
-Maintainer time is a finite resource.
+**Maintainer time is a finite resource**.
 Generative tools can be useful assistants in software development, but using them to throw large and barely verified PRs shifts the development, debugging, and verification work from the contributor to the maintainers - without any speed up in project development.
 
 This document provides the official policy as well as general guidance from the Open Source Robotics Foundation (OSRF) on the use of generative tools to produce any contribution to an OSRF project, both in whole and in part.
