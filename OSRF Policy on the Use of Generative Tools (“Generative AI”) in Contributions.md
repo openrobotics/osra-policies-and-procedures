@@ -39,6 +39,7 @@ For the avoidance of doubt, “Generative Tools” does not refer to tools that 
 
 Any failure to comply with the above rules is grounds for the contribution to be rejected without discussion.
 Repeated non-compliance is grounds for banning.
+What being banned means is project-specific, but may include restrictions on contributing to OSRA-controlled repositories.
 
 # Guidance \- Responsibilities of Contributors
 
