@@ -32,7 +32,7 @@ For the avoidance of doubt, “Generative Tools” does not refer to tools that 
    Do not have an AI agent generate the description for a PR.
    Follow the project's PR description and write a short and clear description of the proposed changes by hand to demonstrate your understanding of them.
 1. Generative tools may not be used in discussions, except as a (natural) language aid.
-   Using an AI translation tool to aide in understanding the conversation and formulating replies is acceptable, but the finay text of any reply should be written by hand.
+   Using an AI translation tool to aide in understanding the conversation and formulating replies is acceptable, but the final text of any reply should be written by hand.
    Having an AI agent directly participate in a discussion, whether via its own account or a person's, is forbidden.
 1. Any use of generative tools in a contribution must be disclosed at the time of making the contribution.  
    The disclosure must be recorded in a way that ensures it has the same or greater lifetime as the contribution itself.
@@ -51,7 +51,7 @@ When making a contribution and engaging in discussion, keep in mind the need to 
 Contributions should follow these general guidelines.
 
 * Confirm that the issue is still valid and that any proposed solution is still preferred.
-  Start a conversation on the issue thread to ensure maintainers agree with the approach **before** beginnig any implementation work.
+  Start a conversation on the issue thread to ensure maintainers agree with the approach **before** beginning any implementation work.
   Opening PRs for stale or invalid issues simply because an AI agent identified them creates unnecessary overhead for maintainers and is strongly discouraged.
 * Run the code locally.
   Verify it compiles, passes linting, and passes all relevant tests before opening a PR.
